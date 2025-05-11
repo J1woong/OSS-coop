@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 61881790296472918}
   m_Layer: 0
   m_Name: Obstacle Right
-  m_TagString: Dead
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -124,7 +124,7 @@ GameObject:
   - component: {fileID: 61237356497549858}
   m_Layer: 0
   m_Name: Obstacle Left
-  m_TagString: Dead
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -351,6 +351,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  acceleration: 0.1
 --- !u!114 &1086273986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -380,7 +381,7 @@ GameObject:
   - component: {fileID: 61928244072500108}
   m_Layer: 0
   m_Name: Obstacle Mid
-  m_TagString: Dead
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
