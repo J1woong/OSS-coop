@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\",
+  "WorkspaceRootPath": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|c:\\git-hub_local\\oss-coop\\uni_run\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|d:\\git-hub_local\\unity_uni_run\\uni_run\\assets\\scripts\\scrollingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scrollingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|c:\\git-hub_local\\oss-coop\\uni_run\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlatformSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PlatformSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\ScrollingObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,79 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ScrollingObject.cs",
-              "DocumentMoniker": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScrollingObject.cs",
-              "ToolTip": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScrollingObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T12:40:36.583Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowBcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:20:49.739Z",
+              "WhenOpened": "2025-05-12T08:37:30.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PlatformSpawner.cs",
+              "DocumentMoniker": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlatformSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformSpawner.cs",
+              "ToolTip": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlatformSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:51:37.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA6wEMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:19:53.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AudioManager.cs",
-              "DocumentMoniker": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
-              "ToolTip": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:09:42.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AudioManager.cs",
-              "DocumentMoniker": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\AudioManager.cs",
-              "ToolTip": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\AudioManager.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T12:05:46.379Z"
+              "WhenOpened": "2025-05-06T15:19:53.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\MenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuController.cs",
-              "ToolTip": "D:\\Git-hub_local\\Unity_Uni_Run\\Uni_Run\\Assets\\Scripts\\MenuController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MenuController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAFAAAAAAAAAA==",
+              "Title": "ScrollingObject.cs",
+              "DocumentMoniker": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScrollingObject.cs",
+              "ToolTip": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScrollingObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:50:45.925Z"
+              "WhenOpened": "2025-05-11T13:51:32.125Z"
             }
           ]
         }

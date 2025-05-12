@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\OSS-coop\\Uni_Run\\",
+  "WorkspaceRootPath": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|c:\\git-hub_local\\oss-coop\\uni_run\\assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlatformSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlatformSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|c:\\git-hub_local\\oss-coop\\uni_run\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\OSS-coop\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ScrollingObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|C:\\Git-hub_local\\OSS-coop\\Uni_Run\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlatformSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PlatformSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D578DB6-3766-44DC-852C-5C9EEB64BBB8}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\ScrollingObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlatformSpawner.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlatformSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformSpawner.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlatformSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlatformSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuController.cs",
+              "ToolTip": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T13:51:37.645Z",
+              "WhenOpened": "2025-05-12T08:37:49.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBMwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:19:53.548Z",
+              "WhenOpened": "2025-05-12T08:37:30.649Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlatformSpawner.cs",
+              "DocumentMoniker": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlatformSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformSpawner.cs",
+              "ToolTip": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlatformSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:51:37.645Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:19:53.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ScrollingObject.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\OSS-coop\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs",
+              "DocumentMoniker": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScrollingObject.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\OSS-coop\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs",
+              "ToolTip": "C:\\Git-hub_local\\OSS-coop\\Uni_Run\\Assets\\Scripts\\ScrollingObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScrollingObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T13:51:32.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T13:51:32.125Z"
             }
           ]
         }

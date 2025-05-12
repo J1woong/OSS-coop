@@ -2,6 +2,10 @@ Library\Bee\artifacts\mvdfrm\UnityEditor.TestRunner.ref.dll_193EC4CE382CBFB3.mvf
 Library\Bee\artifacts\mvdfrm\UnityEditor.UI.ref.dll_4C98D3F7040CD4F5.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.TestRunner.ref.dll_E55D0F7C63F01D9E.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_08FEAA520A2EFD60.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.StandardEvents.dll_5548BE7B8DA16259.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.Editor.dll_6067D0F2F194A2BD.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.Tracker.dll_E630C8F1BC4CEAA4.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_AD02AAA26962B138.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.Graphs.dll_5A421040C7602FC3.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.CoreModule.dll_0631D9EE8DDD7691.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.DeviceSimulatorModule.dll_F6DBFD1AFFB03300.mvfrm
@@ -86,8 +90,10 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.VirtualTexturingModule.dll_C6E53ED926C0
 Library\Bee\artifacts\mvdfrm\UnityEngine.VRModule.dll_8B93D429DA0C27E9.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.WindModule.dll_9FA18869C7196025.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_BE52972E63467547.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Android.Gradle.dll_E50EACD33FA008F9.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Android.Types.dll_25B12EA6BB6EBA53.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.Android.Extensions.dll_F0D2DF5CE1A28AD9.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.Common.dll_C425D9086EC61536.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.dll_E893995B9FC99A0F.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.Xcode.dll_0DD06D8C6E225676.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.WindowsStandalone.Extensions.dll_6C404D41BC21ED1F.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Analytics.StandardEvents.dll_EFA3FA4903B8AC3D.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Analytics.Editor.dll_92F4A379DCE224A1.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Analytics.Tracker.dll_AADB93C032138880.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_EF6D2EA2277CE394.mvfrm
